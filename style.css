@@ -1,0 +1,31 @@
+body {
+    color: black;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bolder;
+ 
+}
+
+h2 {
+    font-size: 24px;
+}
+
+.container-fluid {
+    font: 15px Arial,Helvetica,"Geneva CE",sans-serif;
+    max-width: 640px;
+    margin: 0 auto 0 auto;
+}
+
+.row {
+    margin: 0 10px 10px 10px;
+}
+
+#logos {
+    margin-top: 20px;
+}
+
+.logo {
+    margin: 0 10px 0 0;
+}
